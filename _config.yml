@@ -27,6 +27,7 @@ url: "agewellconnect.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: connectbyagewell
 permalink: pretty
 sass:
+  sass_dir: _sass
   style: compressed
 
 # Build settings
